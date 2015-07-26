@@ -10,15 +10,14 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		aa();
-	}
-
-	public void aa() {
 		System.out.println("sdfdf");
 
 		System.out.println("sdflkdj");
+		
+		System.out.println("sdf");
 
 		System.out.println("sdflsdjflkj");
 	}
+
 
 }
