@@ -12,9 +12,11 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		System.out.println("hello");
 		System.out.println("sdfdf");
-		System.out.println("ddddd");
+		
+		System.out.println("sdflkdj");
+		
+		System.out.println("sdflsdjflkj");
 	}
 
 }
